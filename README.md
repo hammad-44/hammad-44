@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Haider</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Business Website](https://sheikh-toothpicks-sugar.com/)
-
-- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [dehammad.vercel.app](dehammad.vercel.app)
 
