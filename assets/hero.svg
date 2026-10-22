@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111116"/>
+      <stop offset="1" stop-color="#17131F"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="670" y1="60" x2="1120" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B9A2FF"/>
+      <stop offset=".55" stop-color="#8B78F6"/>
+      <stop offset="1" stop-color="#6D8DFF"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#D9D0FF" fill-opacity=".16"/>
+    </pattern>
+    <radialGradient id="mist">
+      <stop stop-color="#8D78FF" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#8D78FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="440" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" rx="22" fill="url(#bg)"/>
+    <rect width="1200" height="440" fill="url(#dots)"/>
+    <ellipse cx="960" cy="214" rx="340" ry="280" fill="url(#mist)"/>
+    <path d="M0 390H1200" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <path d="M58 390H188" stroke="#B9A2FF" stroke-width="2"/>
+    <text x="62" y="60" fill="#A8A0B9" font-family="monospace" font-size="12" letter-spacing="3">DEVELOPER / BUILDER / PROBLEM SOLVER</text>
+    <text x="58" y="164" fill="#F7F5FB" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">Hammad</text>
+    <text x="58" y="244" fill="#F7F5FB" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">Haider<tspan fill="url(#violet)">.</tspan></text>
+    <text x="64" y="288" fill="#C7C0D6" font-family="monospace" font-size="15">FULL STACK DEVELOPMENT  ×  AI</text>
+    <text x="64" y="318" fill="#8E879F" font-family="monospace" font-size="12">PYTHON / REACT / COMPUTER VISION</text>
+    <g transform="translate(925 208)">
+      <circle r="126" stroke="#D4C9FF" stroke-opacity=".16"/>
+      <circle r="94" stroke="#D4C9FF" stroke-opacity=".24" stroke-dasharray="2 9"/>
+      <circle r="62" stroke="#D4C9FF" stroke-opacity=".22"/>
+      <path d="M-148 0H148M0-148V148" stroke="#D4C9FF" stroke-opacity=".12"/>
+      <path d="M-108-88L108 88M-108 88L108-88" stroke="#D4C9FF" stroke-opacity=".12"/>
+      <path d="M-51-52L0-81L53-52V8L0 39L-51 8Z" stroke="url(#violet)" stroke-width="2"/>
+      <path d="M-25-24L0-39L25-24V5L0 20L-25 5Z" fill="#9C88FF" fill-opacity=".18" stroke="#C9BCFF"/>
+      <circle cx="0" cy="-81" r="4" fill="#E5DEFF"/>
+      <circle cx="108" cy="88" r="4" fill="#9B8AFF"/>
+      <circle cx="-108" cy="-88" r="3" fill="#9B8AFF"/>
+      <circle cx="0" cy="0" r="3" fill="#FFFFFF"/>
+      <circle r="126" stroke="#B9A2FF" stroke-opacity=".7" stroke-dasharray="2 28">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="64" y="420" fill="#81798F" font-family="monospace" font-size="10" letter-spacing="2">MAKE SOMETHING THAT MATTERS.</text>
+    <text x="1138" y="420" text-anchor="end" fill="#81798F" font-family="monospace" font-size="10">PK / 01</text>
+  </g>
+</svg>

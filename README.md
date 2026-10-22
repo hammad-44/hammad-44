@@ -1,72 +1,45 @@
- <div align="center">
+<div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Hammad Haider — Full Stack Developer and AI Builder" />
+<img src="assets/hero.svg" alt="Hammad Haider — Creative Software Engineer" width="100%" />
 
-<br/>
+<br />
 
-[**Portfolio ↗**](https://devhammad.vercel.app) &nbsp; · &nbsp; [**GitHub ↗**](https://github.com/hammad-44)
+<a href="https://devhammad.vercel.app"><strong>PORTFOLIO ↗</strong></a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/hammad-44"><strong>GITHUB ↗</strong></a>
 
-<br/>
+<br /><br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-111111?style=flat-square&labelColor=111111)](https://devhammad.vercel.app)
-[![GitHub](https://img.shields.io/badge/GITHUB-Follow-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/hammad-44)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=3200&pause=900&color=9CA3AF&center=true&vCenter=true&repeat=true&width=560&height=28&lines=I+build+software+with+purpose.;Full+stack+%2F+AI+%2F+computer+vision.;Curiosity+in.+Useful+things+out." alt="Animated introduction" />
 
 </div>
 
----
-
-### ABOUT / 01
-
-I'm Hammad — a full-stack developer who enjoys building useful software, exploring AI, and turning complex ideas into practical products.
-
-My work spans web applications, backend systems, machine learning, computer vision, and business-focused software.
-
-I care about more than making something work. I care about how it's structured, how it feels to use, and whether it solves a real problem.
-
-**Currently interested in:** Full-stack engineering · Python ecosystems · AI-powered products · SaaS
-
----
-
-### TOOLKIT / 02
+<br />
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-**01 — BACKEND**
+### A LITTLE ABOUT ME
+
+I’m Hammad — a developer interested in the space between **useful engineering and ambitious ideas**.
+
+I work across the stack, from Python backends and React interfaces to machine-learning experiments and computer-vision systems.
+
+I like projects with a clear purpose, thoughtful details, and enough complexity to teach me something.
+
+</td>
+<td width="42%" valign="top">
+
+### CURRENT TOOLBOX
 
 `Python` `Django` `FastAPI`
 
-`REST APIs` `SQL` `Firebase`
+`React` `JavaScript` `Firebase`
 
-</td>
-<td width="50%" valign="top">
+`Machine Learning` `OpenCV` `OCR`
 
-**02 — FRONTEND**
-
-`React` `JavaScript` `HTML`
-
-`CSS` `Responsive UI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — AI & COMPUTER VISION**
-
-`Machine Learning` `OpenCV`
-
-`Object Detection` `OCR`
-
-</td>
-<td width="50%" valign="top">
-
-**04 — OTHER**
-
-`Java` `Android Development`
-
-`Git` `GitHub`
+`Java` `Android` `Git`
 
 </td>
 </tr>
@@ -74,32 +47,36 @@ I care about more than making something work. I care about how it's structured, 
 
 ---
 
-### SELECTED WORK / 03
-
-A selection of projects exploring security, computer vision, and practical machine learning.
+<p align="center">
+<sub>01 &nbsp; / &nbsp; SELECTED EXPERIMENTS</sub>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / SECURITY + MACHINE LEARNING**
+<img src="assets/scamaway-card.svg" alt="ScamAway project artwork" width="100%" />
 
 ### ScamAway
 
-A phishing URL detection platform combining a React interface, a Python API, and a trained machine-learning classifier.
+**Security / Machine learning**
 
-`REACT` &nbsp; `FASTAPI` &nbsp; `PYTHON` &nbsp; `ML`
+A phishing-URL detection project pairing a React interface with a Python API and a trained classifier.
 
-[Explore repository ↗](https://github.com/hammad-44/ScamAway-web)
+`REACT` &nbsp; `FASTAPI` &nbsp; `ML`
+
+[VIEW REPOSITORY ↗](https://github.com/hammad-44/ScamAway-web)
 
 </td>
 <td width="50%" valign="top">
 
-**02 / COMPUTER VISION**
+<img src="assets/vision-card.svg" alt="Computer vision project artwork" width="100%" />
 
 ### VisageGuard
 
-A desktop face-search system designed around local records, image matching, and structured criminal-record management.
+**Computer vision / Desktop**
+
+A desktop face-search concept built around local records, image matching, and structured record management.
 
 `PYTHON` &nbsp; `OPENCV` &nbsp; `CUSTOMTKINTER`
 
@@ -108,22 +85,22 @@ A desktop face-search system designed around local records, image matching, and 
 <tr>
 <td width="50%" valign="top">
 
-**03 / WEB SECURITY**
-
 ### Web Armor
 
-A Django-based website analysis tool focused on identifying web issues and presenting findings through a straightforward interface.
+**Web security / Django**
 
-`DJANGO` &nbsp; `PYTHON` &nbsp; `WEB SECURITY`
+A website analysis tool that presents web-related findings through a straightforward Django interface.
+
+`PYTHON` &nbsp; `DJANGO` &nbsp; `WEB SECURITY`
 
 </td>
 <td width="50%" valign="top">
 
-**04 / OBJECT DETECTION**
-
 ### Number Plate Recognition
 
-An offline computer-vision project exploring Pakistani vehicle plate detection and text recognition.
+**Computer vision / OCR**
+
+An offline project exploring detection and text recognition for Pakistani vehicle number plates.
 
 `YOLO` &nbsp; `OPENCV` &nbsp; `OCR`
 
@@ -133,26 +110,52 @@ An offline computer-vision project exploring Pakistani vehicle plate detection a
 
 ---
 
-### HOW I THINK / 04
+<p align="center">
+<sub>02 &nbsp; / &nbsp; HOW I LIKE TO WORK</sub>
+</p>
 
-<blockquote>
-Good software isn't just code that runs. It's a solution people can understand, trust, and use.
-</blockquote>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-I enjoy working across the stack, learning unfamiliar technologies, and choosing tools based on the problem rather than the trend.
+**01 — Understand**
 
-My goal is to build software with clear purpose, maintainable foundations, and a genuinely useful outcome.
+Start with the real problem, not the trendiest technology.
+
+</td>
+<td width="33%" valign="top">
+
+**02 — Build**
+
+Make the core workflow work before adding unnecessary complexity.
+
+</td>
+<td width="33%" valign="top">
+
+**03 — Refine**
+
+Improve clarity, reliability, and the details people actually notice.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ELSEWHERE / 05
-
 <div align="center">
 
-[Portfolio](https://devhammad.vercel.app) &nbsp; / &nbsp; [GitHub repositories](https://github.com/hammad-44?tab=repositories)
+### MORE FROM THE WORKBENCH
 
-<br/>
+<a href="https://github.com/hammad-44?tab=repositories">Browse all repositories ↗</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://devhammad.vercel.app">Visit my portfolio ↗</a>
 
-<sub>DESIGNED AROUND PROBLEMS. BUILT WITH CODE.</sub>
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=hammad-44&style=flat-square&color=9B87F5&label=VISITS" alt="Profile visits" />
+
+<br />
+
+<sub>MAKE IT CLEAR. MAKE IT USEFUL. MAKE IT BETTER.</sub>
 
 </div>
