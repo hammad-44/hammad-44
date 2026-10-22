@@ -1,134 +1,312 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Hammad Haider 👋</h1>
-  <p align="center">
-    <strong>Python Full-Stack Developer & AI Systems Engineer</strong>
-  </p>
-  <p align="center">
-    <em>Building robust web applications, computer vision systems, and scalable SaaS solutions.</em>
-  </p>
 
-  <p align="center">
-    <a href="https://github.com/hammad-44">
-      <img src="https://komarev.com/ghpvc/?username=hammad-44&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/hammad-44?tab=repositories">
-      <img src="https://img.shields.io/github/followers/hammad-44?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-    </a>
-  </p>
-</div>
+# Hammad Haider
 
----
+### Full Stack Developer · Python · Django · React · AI/ML
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+real-world+software;Python+%2B+Django+%2B+React;AI+%2B+Computer+Vision;Turning+ideas+into+products" alt="Typing SVG" />
 
-- 🔭 **Currently Building**: Scalable full-stack SaaS applications, AI-assisted computer vision tools, and production APIs.
-- 💡 **Core Expertise**: Python (Django, FastAPI), React, Next.js, and Computer Vision (OpenCV, DeepFace, YOLO).
-- ⚙️ **Engineering Philosophy**: Clean architecture, test-driven reliability, and high-performance user experiences.
-- 💬 **Ask Me About**: Python full-stack architecture, CV model integrations, database optimization, and modern UI engineering.
-- ⚡ **Fun Fact**: I bridge the gap between heavy computer vision/AI pipelines and smooth, accessible frontends.
+<br />
 
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
-
-#### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **Backend & Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
-
-#### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **AI, Computer Vision & Data**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-#### **Databases & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://devhammad.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-devhammad.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+## `> whoami`
+
+```python
+class HammadHaider:
+
+    role = "Full Stack Developer"
+
+    focus = [
+        "Python & Django",
+        "React",
+        "AI / Machine Learning",
+        "Computer Vision",
+        "SaaS & Business Applications"
+    ]
+
+    philosophy = "Build useful things. Keep improving."
+```
+
+I build **full-stack web applications, SaaS products, AI-powered systems, and business software**.
+
+My main stack is **Python/Django + React**, with additional experience in FastAPI, Firebase, Machine Learning, Computer Vision, and Android development.
+
+I enjoy working across the entire product lifecycle — from **architecture and backend development to frontend, APIs, databases, and deployment**.
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,sql" />
+</p>
+
+### Frameworks & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,react,vite,firebase,androidstudio" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,opencv" />
+</p>
+
+---
+
+## 🚀 What I Build
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/hammad-44/Number-Plate-Detection-System">Number Plate Detection System</a></h3>
-      <p>Automated License Plate Recognition (ALPR) system capable of detecting, tracking, and reading vehicle plates from live video feeds using deep learning.</p>
-      <p>
-        <code>Python</code> • <code>YOLO</code> • <code>OpenCV</code> • <code>EasyOCR</code> • <code>PyTorch</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/hammad-44/VisageGuardDesktop">VisageGuard Desktop</a></h3>
-      <p>Criminal facial recognition and biometric identity management desktop suite with automated subject identification and law enforcement search tools.</p>
-      <p>
-        <code>Python</code> • <code>DeepFace</code> • <code>CustomTkinter</code> • <code>OpenCV</code> • <code>SQLite</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/hammad-44/Portfolix">Portfolix</a></h3>
-      <p>Full-stack SaaS portfolio builder platform featuring real-time preview editing, responsive templates, and instantaneous portfolio publishing.</p>
-      <p>
-        <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Node.js</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩸 <a href="https://github.com/hammad-44/BloodLink">BloodLink</a></h3>
-      <p>Emergency blood donor discovery network designed to connect urgent patients with local compatible donors in real-time across Pakistan.</p>
-      <p>
-        <code>Django</code> • <code>Python</code> • <code>Bootstrap</code> • <code>SQLite/PostgreSQL</code>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Applications
+
+Scalable web applications with modern frontend interfaces, robust Python backends, REST APIs and database-driven workflows.
+
+</td>
+<td width="50%">
+
+### 🤖 AI & ML
+
+Practical AI/ML applications focused on solving real problems rather than adding AI for the sake of it.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ Computer Vision
+
+Image recognition, object detection, OCR and real-time computer vision systems.
+
+</td>
+<td width="50%">
+
+### 💼 Business Software
+
+Custom systems, dashboards, e-commerce platforms and internal tools designed around real business workflows.
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+# 🧠 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hammad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-44&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ ScamAway</h3>
+
+AI-powered phishing URL detection platform.
+
+**Stack**
+
+`React` `FastAPI` `Python` `Machine Learning`
+
+Detects potentially malicious URLs using a trained ML model and provides users with an immediate risk assessment.
+
+<a href="https://github.com/hammad-44/ScamAway-web">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>👁️ VisageGuard</h3>
+
+Computer vision based face-search and identification system.
+
+**Stack**
+
+`Python` `OpenCV` `Deep Learning` `CustomTkinter`
+
+Designed around local data processing and database-backed identification workflows.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Web Armor</h3>
+
+Django-based web security analysis platform.
+
+**Stack**
+
+`Python` `Django` `Security` `Web Analysis`
+
+Analyzes websites and presents security-related findings through a structured interface.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚗 Number Plate Recognition</h3>
+
+Computer vision system for Pakistani vehicle plates.
+
+**Stack**
+
+`YOLO` `OpenCV` `OCR` `Python`
+
+Designed for real-time detection and recognition of Pakistani number plates.
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 📬 Connect With Me
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-haider)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad-44)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadhaider44@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=hammad-44&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-44&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true" height="180"/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-44&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hammad-44/hammad-44/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Building better Full Stack applications                  │
+│                                                             │
+│   ████████████████████████░░░░  Python / Django            │
+│   ██████████████████████░░░░░░  React                      │
+│   ██████████████████░░░░░░░░░░  AI / ML                   │
+│   ████████████████░░░░░░░░░░░░  Computer Vision            │
+│   ██████████████░░░░░░░░░░░░░░  SaaS                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+Currently focused on building **production-quality software** and combining traditional full-stack engineering with AI/ML where it creates real value.
+
+---
+
+## 🧩 Engineering Interests
+
+```text
+Backend Architecture       ████████████████████
+Full Stack Development     ████████████████████
+Python / Django            ████████████████████
+React                      ███████████████████░
+AI / Machine Learning      █████████████████░░
+Computer Vision            ████████████████░░░
+SaaS Development           ████████████████░░░
+Mobile Development         ████████████░░░░░░
+```
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer — 7 Kings Code**
+
+Working on production web applications and software projects, with a focus on full-stack development and modern web technologies.
+
+Experience includes:
+
+- React
+- Django / Python
+- Sitecore
+- Production application support
+- Feature development
+- Bug fixing
+- Code review
+- Collaborative software development
+
+---
+
+## 🌎 Beyond Code
+
+I like working on projects where software is more than just a technical exercise.
+
+I'm particularly interested in:
+
+**AI → Automation → SaaS → Business Problems**
+
+The goal is simple:
+
+> **Build software that is actually useful.**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://devhammad.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/hammad-44">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### `Code. Build. Learn. Repeat.`
+
+<img src="https://komarev.com/ghpvc/?username=hammad-44&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
