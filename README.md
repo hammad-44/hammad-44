@@ -1,105 +1,72 @@
-<div align="center">
+ <div align="center">
 
-# Hammad Haider
+<img src="./assets/profile-hero.svg" width="100%" alt="Hammad Haider — Full Stack Developer and AI Builder" />
 
-### Full Stack Developer · Python · Django · React · AI/ML
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+real-world+software;Python+%2B+Django+%2B+React;AI+%2B+Computer+Vision;Turning+ideas+into+products" alt="Typing SVG" />
+[**Portfolio ↗**](https://devhammad.vercel.app) &nbsp; · &nbsp; [**GitHub ↗**](https://github.com/hammad-44)
 
-<br />
+<br/>
 
-<a href="https://devhammad.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-devhammad.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore-111111?style=flat-square&labelColor=111111)](https://devhammad.vercel.app)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/hammad-44)
 
 </div>
 
 ---
 
-## `> whoami`
+### ABOUT / 01
 
-```python
-class HammadHaider:
+I'm Hammad — a full-stack developer who enjoys building useful software, exploring AI, and turning complex ideas into practical products.
 
-    role = "Full Stack Developer"
+My work spans web applications, backend systems, machine learning, computer vision, and business-focused software.
 
-    focus = [
-        "Python & Django",
-        "React",
-        "AI / Machine Learning",
-        "Computer Vision",
-        "SaaS & Business Applications"
-    ]
+I care about more than making something work. I care about how it's structured, how it feels to use, and whether it solves a real problem.
 
-    philosophy = "Build useful things. Keep improving."
-```
-
-I build **full-stack web applications, SaaS products, AI-powered systems, and business software**.
-
-My main stack is **Python/Django + React**, with additional experience in FastAPI, Firebase, Machine Learning, Computer Vision, and Android development.
-
-I enjoy working across the entire product lifecycle — from **architecture and backend development to frontend, APIs, databases, and deployment**.
+**Currently interested in:** Full-stack engineering · Python ecosystems · AI-powered products · SaaS
 
 ---
 
-## ⚡ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,sql" />
-</p>
-
-### Frameworks & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,react,vite,firebase,androidstudio" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,opencv" />
-</p>
-
----
-
-## 🚀 What I Build
+### TOOLKIT / 02
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Full Stack Applications
+**01 — BACKEND**
 
-Scalable web applications with modern frontend interfaces, robust Python backends, REST APIs and database-driven workflows.
+`Python` `Django` `FastAPI`
+
+`REST APIs` `SQL` `Firebase`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & ML
+**02 — FRONTEND**
 
-Practical AI/ML applications focused on solving real problems rather than adding AI for the sake of it.
+`React` `JavaScript` `HTML`
+
+`CSS` `Responsive UI`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👁️ Computer Vision
+**03 — AI & COMPUTER VISION**
 
-Image recognition, object detection, OCR and real-time computer vision systems.
+`Machine Learning` `OpenCV`
+
+`Object Detection` `OCR`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 Business Software
+**04 — OTHER**
 
-Custom systems, dashboards, e-commerce platforms and internal tools designed around real business workflows.
+`Java` `Android Development`
+
+`Git` `GitHub`
 
 </td>
 </tr>
@@ -107,206 +74,85 @@ Custom systems, dashboards, e-commerce platforms and internal tools designed aro
 
 ---
 
-# 🧠 Featured Projects
+### SELECTED WORK / 03
 
-<div align="center">
+A selection of projects exploring security, computer vision, and practical machine learning.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🛡️ ScamAway</h3>
+**01 / SECURITY + MACHINE LEARNING**
 
-AI-powered phishing URL detection platform.
+### ScamAway
 
-**Stack**
+A phishing URL detection platform combining a React interface, a Python API, and a trained machine-learning classifier.
 
-`React` `FastAPI` `Python` `Machine Learning`
+`REACT` &nbsp; `FASTAPI` &nbsp; `PYTHON` &nbsp; `ML`
 
-Detects potentially malicious URLs using a trained ML model and provides users with an immediate risk assessment.
-
-<a href="https://github.com/hammad-44/ScamAway-web">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
-</a>
+[Explore repository ↗](https://github.com/hammad-44/ScamAway-web)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>👁️ VisageGuard</h3>
+**02 / COMPUTER VISION**
 
-Computer vision based face-search and identification system.
+### VisageGuard
 
-**Stack**
+A desktop face-search system designed around local records, image matching, and structured criminal-record management.
 
-`Python` `OpenCV` `Deep Learning` `CustomTkinter`
-
-Designed around local data processing and database-backed identification workflows.
+`PYTHON` &nbsp; `OPENCV` &nbsp; `CUSTOMTKINTER`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🛡️ Web Armor</h3>
+**03 / WEB SECURITY**
 
-Django-based web security analysis platform.
+### Web Armor
 
-**Stack**
+A Django-based website analysis tool focused on identifying web issues and presenting findings through a straightforward interface.
 
-`Python` `Django` `Security` `Web Analysis`
-
-Analyzes websites and presents security-related findings through a structured interface.
+`DJANGO` &nbsp; `PYTHON` &nbsp; `WEB SECURITY`
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🚗 Number Plate Recognition</h3>
+**04 / OBJECT DETECTION**
 
-Computer vision system for Pakistani vehicle plates.
+### Number Plate Recognition
 
-**Stack**
+An offline computer-vision project exploring Pakistani vehicle plate detection and text recognition.
 
-`YOLO` `OpenCV` `OCR` `Python`
-
-Designed for real-time detection and recognition of Pakistani number plates.
+`YOLO` &nbsp; `OPENCV` &nbsp; `OCR`
 
 </td>
-
 </tr>
 </table>
 
-</div>
+---
+
+### HOW I THINK / 04
+
+<blockquote>
+Good software isn't just code that runs. It's a solution people can understand, trust, and use.
+</blockquote>
+
+I enjoy working across the stack, learning unfamiliar technologies, and choosing tools based on the problem rather than the trend.
+
+My goal is to build software with clear purpose, maintainable foundations, and a genuinely useful outcome.
 
 ---
 
-## 📊 GitHub Activity
+### ELSEWHERE / 05
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hammad-44&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+[Portfolio](https://devhammad.vercel.app) &nbsp; / &nbsp; [GitHub repositories](https://github.com/hammad-44?tab=repositories)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-44&layout=compact&hide_border=true&theme=github_dark&langs_count=8&count_private=true" height="180"/>
+<br/>
 
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-44&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hammad-44/hammad-44/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Building better Full Stack applications                  │
-│                                                             │
-│   ████████████████████████░░░░  Python / Django            │
-│   ██████████████████████░░░░░░  React                      │
-│   ██████████████████░░░░░░░░░░  AI / ML                   │
-│   ████████████████░░░░░░░░░░░░  Computer Vision            │
-│   ██████████████░░░░░░░░░░░░░░  SaaS                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-Currently focused on building **production-quality software** and combining traditional full-stack engineering with AI/ML where it creates real value.
-
----
-
-## 🧩 Engineering Interests
-
-```text
-Backend Architecture       ████████████████████
-Full Stack Development     ████████████████████
-Python / Django            ████████████████████
-React                      ███████████████████░
-AI / Machine Learning      █████████████████░░
-Computer Vision            ████████████████░░░
-SaaS Development           ████████████████░░░
-Mobile Development         ████████████░░░░░░
-```
-
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer — 7 Kings Code**
-
-Working on production web applications and software projects, with a focus on full-stack development and modern web technologies.
-
-Experience includes:
-
-- React
-- Django / Python
-- Sitecore
-- Production application support
-- Feature development
-- Bug fixing
-- Code review
-- Collaborative software development
-
----
-
-## 🌎 Beyond Code
-
-I like working on projects where software is more than just a technical exercise.
-
-I'm particularly interested in:
-
-**AI → Automation → SaaS → Business Problems**
-
-The goal is simple:
-
-> **Build software that is actually useful.**
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://devhammad.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/hammad-44">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-### `Code. Build. Learn. Repeat.`
-
-<img src="https://komarev.com/ghpvc/?username=hammad-44&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<sub>DESIGNED AROUND PROBLEMS. BUILT WITH CODE.</sub>
 
 </div>
