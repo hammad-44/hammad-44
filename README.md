@@ -1,27 +1,134 @@
-<h1 align="center">Hi 👋, I'm Hammad Haider</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
+<div align="center">
+  <h1 align="center">Hi there, I'm Hammad Haider 👋</h1>
+  <p align="center">
+    <strong>Python Full-Stack Developer & AI Systems Engineer</strong>
+  </p>
+  <p align="center">
+    <em>Building robust web applications, computer vision systems, and scalable SaaS solutions.</em>
+  </p>
 
+  <p align="center">
+    <a href="https://github.com/hammad-44">
+      <img src="https://komarev.com/ghpvc/?username=hammad-44&color=007ec6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/hammad-44?tab=repositories">
+      <img src="https://img.shields.io/github/followers/hammad-44?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+    </a>
+  </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [dehammad.vercel.app](dehammad.vercel.app)
+---
 
-- 💬 Ask me about **JS,React,Python,Django,SQL,JAVA**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **haiderhammad282@gmail.com**
+- 🔭 **Currently Building**: Scalable full-stack SaaS applications, AI-assisted computer vision tools, and production APIs.
+- 💡 **Core Expertise**: Python (Django, FastAPI), React, Next.js, and Computer Vision (OpenCV, DeepFace, YOLO).
+- ⚙️ **Engineering Philosophy**: Clean architecture, test-driven reliability, and high-performance user experiences.
+- 💬 **Ask Me About**: Python full-stack architecture, CV model integrations, database optimization, and modern UI engineering.
+- ⚡ **Fun Fact**: I bridge the gap between heavy computer vision/AI pipelines and smooth, accessible frontends.
 
-- ⚡ Fun fact **I**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/hammad44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hammad44" height="30" width="40" /></a>
-<a href="https://twitter.com/error4o411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="error4o411" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//hammad-haider-711a19246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/hammad-haider-711a19246" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19571427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19571427" height="30" width="40" /></a>
-<a href="https://kaggle.com/hammadhaider44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hammadhaider44" height="30" width="40" /></a>
-<a href="https://fb.com/hammadhaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadhaider" height="30" width="40" /></a>
-<a href="https://instagram.com/hamamdhaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamamdhaider" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack & Ecosystem
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-44&show_icons=true&locale=en&layout=compact" alt="hammad-44" /></p>
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **Backend & Frameworks**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **AI, Computer Vision & Data**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### **Databases & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/hammad-44/Number-Plate-Detection-System">Number Plate Detection System</a></h3>
+      <p>Automated License Plate Recognition (ALPR) system capable of detecting, tracking, and reading vehicle plates from live video feeds using deep learning.</p>
+      <p>
+        <code>Python</code> • <code>YOLO</code> • <code>OpenCV</code> • <code>EasyOCR</code> • <code>PyTorch</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/hammad-44/VisageGuardDesktop">VisageGuard Desktop</a></h3>
+      <p>Criminal facial recognition and biometric identity management desktop suite with automated subject identification and law enforcement search tools.</p>
+      <p>
+        <code>Python</code> • <code>DeepFace</code> • <code>CustomTkinter</code> • <code>OpenCV</code> • <code>SQLite</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/hammad-44/Portfolix">Portfolix</a></h3>
+      <p>Full-stack SaaS portfolio builder platform featuring real-time preview editing, responsive templates, and instantaneous portfolio publishing.</p>
+      <p>
+        <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Node.js</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩸 <a href="https://github.com/hammad-44/BloodLink">BloodLink</a></h3>
+      <p>Emergency blood donor discovery network designed to connect urgent patients with local compatible donors in real-time across Pakistan.</p>
+      <p>
+        <code>Django</code> • <code>Python</code> • <code>Bootstrap</code> • <code>SQLite/PostgreSQL</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammad-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hammad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad-44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-44&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-haider)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad-44)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadhaider44@gmail.com)
+
+</div>
